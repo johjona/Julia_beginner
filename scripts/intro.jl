@@ -17,3 +17,10 @@ issues on GitHub, submitting feature requests,
 or even opening your own Pull Requests!
 """
 )
+
+x = 1
+y = 2
+
+z = dummy_project_function(x,y)
+
+println("z = ", z, ", Have a nice day!")
